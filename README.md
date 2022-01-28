@@ -7,4 +7,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=william-limianto&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 Special Thanks:
-- **[@devinekadeni](https://github.com/devinekadeni)** - for letting know about this [cool profile creator](https://gprm.itsvg.in/).
+- **[@devinekadeni](https://github.com/devinekadeni)** - for letting me know about this [cool profile creator](https://gprm.itsvg.in/).
